@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="API Test Suite"
+    parallel="false">
+    <listeners>
+  <!--  <listener class-name="TestSuiteListener"/>
+     <listener class-name="RetryTestListener"/>
+    <listener class-name="Old.TestListener"/>-->
+    <listener class-name="ExtentReportListener"/>
+        <listener class-name="io.qameta.allure.testng.AllureTestNg"/>
+        
+    </listeners>
+
+    <test name="GET API Test">
+        <classes>
+            <class name="AstroAPITest"/>
+            <class name="CctvTypeAPITest"/>
+        </classes>
+    </test>
+</suite>
