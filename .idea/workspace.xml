@@ -4,36 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02413cfd-cfa4-49b8-bf53-896e2f1f68aa" name="Changes" comment="">
+    <list default="true" id="02413cfd-cfa4-49b8-bf53-896e2f1f68aa" name="Changes" comment="commit inteliji 14-6-24">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/ApiClient.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/ApiConfig.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/ApiResponse.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/BaseTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/ConfigPropertiesFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ExtentReportListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ExtentReportManager.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/Old/BaseUrl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Old/HttpClientUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Old/PropertiesLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Old/TestReporter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/RetryTestListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TestRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TestSuiteListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/endpoints.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/user-create.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/AstroAPITest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/CctvTypeAPITest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/UserAPITest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/WorkflowAPITest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -247,6 +227,14 @@
       <option name="presentableId" value="Default" />
       <updated>1718105734326</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit inteliji 14-6-24">
+      <created>1718360120515</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718360120515</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -259,6 +247,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit inteliji 14-6-24" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit inteliji 14-6-24" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
