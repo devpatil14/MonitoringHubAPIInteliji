@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02413cfd-cfa4-49b8-bf53-896e2f1f68aa" name="Changes" comment="commit inteliji 14-6-24">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ApiClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ApiConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ApiResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ConfigPropertiesFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Old/BaseUrl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AstroAPITest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CctvTypeAPITest.java" afterDir="false" />
+    <list default="true" id="02413cfd-cfa4-49b8-bf53-896e2f1f68aa" name="Changes" comment="commit inteliji 14-6-24 15-47">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,19 +35,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_directory_selection": "D:/Intellve/Workspace/MonitoringHubAPI/src/test/java",
-    "last_opened_file_path": "D:/Intellve/Workspace/MonitoringHubAPI",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "io.qameta.allure.idea.settings.AppSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;D:/Intellve/Workspace/MonitoringHubAPI/src/test/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Intellve/Workspace/MonitoringHubAPI&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;io.qameta.allure.idea.settings.AppSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Intellve\Workspace\MonitoringHubAPI\src\test\java" />
@@ -234,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1718360120515</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit inteliji 14-6-24 15-47">
+      <created>1718360301822</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718360301822</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -250,7 +250,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit inteliji 14-6-24" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit inteliji 14-6-24" />
+    <MESSAGE value="commit inteliji 14-6-24 15-47" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit inteliji 14-6-24 15-47" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
